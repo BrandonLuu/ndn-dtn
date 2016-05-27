@@ -1,0 +1,3 @@
+Waf: Entering directory `/home/bluu/ndnSIM/ns-3/build'
+[411/424] Compiling dtn.cc
+Waf: Leaving directory `/home/bluu/ndnSIM/ns-3/build'
